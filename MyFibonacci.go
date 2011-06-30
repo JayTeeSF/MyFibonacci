@@ -1,4 +1,4 @@
-package my_fibonacci
+package MyFibonacci
 
 type fibCommander struct {
   previous, current, next (func() int)

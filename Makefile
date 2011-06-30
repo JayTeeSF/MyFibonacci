@@ -1,7 +1,7 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=github.com/JayTeeSF/my_fibonacci
+TARG=github.com/JayTeeSF/MyFibonacci
 GOFILES=\
-	my_fibonacci.go\
+	MyFibonacci.go\
 
 include $(GOROOT)/src/Make.pkg

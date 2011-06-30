@@ -1,4 +1,4 @@
-package my_fibonacci
+package MyFibonacci
 import "testing"
 
 func TestFibber(t *testing.T) {
